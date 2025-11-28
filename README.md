@@ -1,8 +1,7 @@
 # ComfyUI ModelScope Kontext API Node
 
-这是一个为ComfyUI设计的自定义节点，它允许用户通过魔搭（ModelScope）的官方API，调用 **FLUX.1-Kontext-Dev** 模型进行图生图（Image-to-Image）操作。
+这是一个为ComfyUI设计的自定义节点，它允许用户通过魔搭（ModelScope）的官方API，调用 **FLUX.1-Kontext-Dev**以及 **FLUX.2-Dev** 模型进行图生图（Image-to-Image）操作。
 
-This is a custom node for ComfyUI that allows users to perform Image-to-Image generation by calling the **FLUX.1-Kontext-Dev** model via the official ModelScope API.
 
 ---
 
@@ -58,5 +57,6 @@ This is a custom node for ComfyUI that allows users to perform Image-to-Image ge
 
 
 本项目采用 [MIT License](LICENSE) 开源。
+
 
 
