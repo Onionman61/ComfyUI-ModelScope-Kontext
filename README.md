@@ -15,7 +15,7 @@
 
 ![example-workflow](https://raw.githubusercontent.com/Onionman61/ComfyUI-ModelScope-Kontext/refs/heads/main/exmple.png)
 
-![example-workflow](https://github.com/Onionman61/ComfyUI-ModelScope/blob/main/exmple2.png)
+![example-workflow](https://github.com/Onionman61/ComfyUI-ModelScope/blob/main/Exmple2.png)
 
 ---
 
@@ -59,6 +59,7 @@
 
 
 本项目采用 [MIT License](LICENSE) 开源。
+
 
 
 
