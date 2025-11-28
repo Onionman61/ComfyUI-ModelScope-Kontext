@@ -15,6 +15,8 @@
 
 ![example-workflow](https://raw.githubusercontent.com/Onionman61/ComfyUI-ModelScope-Kontext/refs/heads/main/exmple.png)
 
+![example-workflow](https://github.com/Onionman61/ComfyUI-ModelScope/blob/main/exmple2.png)
+
 ---
 
 ### ⚙️ 安装
